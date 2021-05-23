@@ -64,7 +64,7 @@ Add a .env file at the root of the project directory with the following contents
  - `GET /users/logout` - sign out
 
 ## Sample response
-The following is a sample response from  `GET reservations?date=2021-06-07` :
+The following is a sample response from  `GET /reservations?date=2021-06-07` :
 ```
 [
   {
