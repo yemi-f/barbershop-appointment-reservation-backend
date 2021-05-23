@@ -5,6 +5,17 @@ This is a REST API built with [Node.js](https://nodejs.org/), [Express.js](https
 REST API deployed to Heroku 
 
 
+## Description
+This REST API allows a visitor to book a haircut appointment at a barbershop. 
+
+I take the following into account:
+- the barbershop is open 9 AM - 6PM on business days
+- break time is from 1 PM - 2PM
+- barbershop is closed on weekends
+- each appointment is 50 minutes long
+- appointments only start at HH:00:00 and end at HH:50:00
+- no 2 individuals can book an appointment for the same time
+
 ## Install
 ### `npm install`
 Runs the app in the development mode.
