@@ -2,7 +2,7 @@
 # barbershop-appointment-reservation-backend
 This is a REST API built with [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), [Passport](http://www.passportjs.org/docs/).
 
-REST API deployed to Heroku 
+REST API deployed to Heroku https://barbershop-appointments.herokuapp.com/
 
 
 ## Description
