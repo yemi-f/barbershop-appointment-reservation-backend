@@ -27,7 +27,7 @@ Add a .env file at the root of the project directory with the following contents
 
 
 ## API endpoints
-### JOBS
+### RESERVATIONS
 
  - `GET /reservations` - get all reservations (default: get today's reservations) -  can only be accessed by authorized users
  - `GET /reservations/:id` - gets a reservation with unique ID
